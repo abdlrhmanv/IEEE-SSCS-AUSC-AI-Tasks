@@ -45,6 +45,7 @@ source venv/bin/activate
 I am always open to discussing **AI**, **Software Engineering**, or **Mathematics**. Feel free to reach out!
 
 - 📧 **Email**: [abdlrhmanv@icloud.com](mailto:abdlrhmanv@icloud.com)
-- 💼 **LinkedIn**: [Abdelrahman Hisham](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 💼 **LinkedIn**: [Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv)
 - 🐙 **GitHub**: [@abdlrhmanv](https://github.com/abdlrhmanv)
+- 
 Created with ❤️ by Abdelrahman Hisham
