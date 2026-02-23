@@ -1,51 +1,96 @@
-# 🚀 IEEE SSCS AUSC - AI Training Tasks
+<h1 align="center">IEEE SSCS AUSC — AI Training Tasks</h1>
 
-> **Repository for Artificial Intelligence & Machine Learning tasks assigned by the IEEE SSCS Alexandria University Student Chapter (AUSC).**
+<p align="center">
+  <em>Artificial Intelligence &amp; Machine Learning tasks assigned by the<br/>
+  IEEE Solid-State Circuits Society · Alexandria University Student Chapter</em>
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn"></a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
-I am **Abdlrhman Ismail**, a Senior Computer Engineering Student at **Ain Shams University (ASU)**.
-This repository documents my journey, assignments, and projects as a member of the **AI Committee** at IEEE SSCS AUSC.
 
-## 🛠️ Tech Stack & Tools
-The technologies and tools I use to solve these tasks:
+I'm **Abdlrhman Ismail**, a Senior Computer Engineering student at **Ain Shams University (ASU)** and an active member of the **AI Committee** at IEEE SSCS AUSC. This repository documents my assignments, projects, and growth throughout the AI training track.
 
-* **Languages:** Python 🐍
-* **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
-* **Environment:** Linux (Pop!_OS / Mint), VS Code, Jupyter Notebooks
-* **Version Control:** Git & GitHub
+---
 
 ## 📂 Repository Structure
 
-| # | Task Name | Description | Status |
-| :-: | :--- | :--- | :-: |
-| 01 | **Git & GitHub Basics** | Setting up the repo and SSH keys | ✅ Done |
-| 02 | **Python Basics** | (Add description later) | ⏳ In Progress |
-| 03 | **Data Preprocessing** | (Add description later) | 🔜 Pending |
-| -- | ... | ... | ... |
+```
+IEEE-SSCS-AUSC-AI-Tasks/
+├── Task0/                          # Initial Task — Matrix Ops & Trapezoid Rule
+│   ├── Hello IEEE/
+│   │   ├── Code/                   # Pure-Python matrix operations
+│   │   └── Research/               # Research papers
+│   │       ├── Trapezoid Rule.pdf
+│   │       └── Matrix Normalization in AI.pdf
+│   ├── Task 0 - initial Task - AI Team.pdf
+│   └── README.md
+├── README.md                       # ← You are here
+└── ...                             # Future tasks will be added here
+```
 
-*(This table will be updated weekly as I progress through the track)*
+---
 
-## 🚀 How to Run
+## 📝 Task Progress
 
-To clone and run this repository on your local machine:
+|  #  | Task             | Description                                                 | Status  |
+| :-: | :--------------- | :---------------------------------------------------------- | :-----: |
+| 00  | **Initial Task** | Matrix operations from scratch (no NumPy) + research papers | ✅ Done |
+
+> _This table is updated as I progress through the track._
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category            | Tools                                                 |
+| :------------------ | :---------------------------------------------------- |
+| **Language**        | Python 3 🐍                                           |
+| **Libraries**       | NumPy · Pandas · Matplotlib · Scikit-Learn            |
+| **Environment**     | Linux (Pop!\_OS / Mint) · VS Code · Jupyter Notebooks |
+| **Version Control** | Git & GitHub                                          |
+
+---
+
+## 🚀 Getting Started
 
 ```bash
-# Clone the repository
+# 1. Clone the repository
 git clone git@github.com:abdlrhmanv/IEEE-SSCS-AUSC-AI-Tasks.git
-
-# Navigate to the directory
 cd IEEE-SSCS-AUSC-AI-Tasks
 
-# (Optional) Create a virtual environment
-python3 -m venv venv
-source venv/bin/activate
+# 2. (Recommended) Create & activate a virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
+# 3. Install dependencies (when applicable)
+pip install -r requirements.txt
 ```
+
+> **Note:** Task 0 uses only the Python standard library — no extra dependencies needed.
+
+---
+
 ## 📬 Contact
 
-I am always open to discussing **AI**, **Software Engineering**, or **Mathematics**. Feel free to reach out!
+Always happy to chat about **AI**, **Software Engineering**, or **Mathematics** — feel free to reach out!
 
-- 📧 **Email**: [abdlrhmanv@icloud.com](mailto:abdlrhmanv@icloud.com)
-- 💼 **LinkedIn**: [Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv)
-- 🐙 **GitHub**: [@abdlrhmanv](https://github.com/abdlrhmanv)
-- 
-Created with ❤️ by Abdelrahman Hisham
+|                 |                                                            |
+| --------------- | ---------------------------------------------------------- |
+| 📧 **Email**    | [abdlrhmanv@icloud.com](mailto:abdlrhmanv@icloud.com)      |
+| 💼 **LinkedIn** | [Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv) |
+| 🐙 **GitHub**   | [@abdlrhmanv](https://github.com/abdlrhmanv)               |
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Abdlrhman Ismail</strong>
+</p>
