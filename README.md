@@ -39,3 +39,12 @@ cd IEEE-SSCS-AUSC-AI-Tasks
 # (Optional) Create a virtual environment
 python3 -m venv venv
 source venv/bin/activate
+```
+## 📬 Contact
+
+I am always open to discussing **AI**, **Software Engineering**, or **Mathematics**. Feel free to reach out!
+
+- 📧 **Email**: [abdlrhmanv@icloud.com](mailto:abdlrhmanv@icloud.com)
+- 💼 **LinkedIn**: [Abdelrahman Hisham](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 🐙 **GitHub**: [@abdlrhmanv](https://github.com/abdlrhmanv)
+Created with ❤️ by Abdelrahman Hisham
