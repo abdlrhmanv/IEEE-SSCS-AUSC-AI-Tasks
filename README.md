@@ -33,6 +33,14 @@ IEEE-SSCS-AUSC-AI-Tasks/
 │   │       └── Matrix Normalization in AI.pdf
 │   ├── Task 0 - initial Task - AI Team.pdf
 │   └── README.md
+├── Task1/                          # NumPy Assignment — Core Ops & Linear Regression
+│   ├── NumPy Assignment/
+│   │   ├── Code/                   # NumPy scripts
+│   │   │   ├── Core NumPy Operations/
+│   │   │   └── Linear Regression from Scratch (Normal Equation)/
+│   │   └── Research/
+│   │       └── Research.pdf
+│   └── README.md
 ├── README.md                       # ← You are here
 └── ...                             # Future tasks will be added here
 ```
@@ -41,9 +49,10 @@ IEEE-SSCS-AUSC-AI-Tasks/
 
 ## 📝 Task Progress
 
-|  #  | Task             | Description                                                 | Status  |
-| :-: | :--------------- | :---------------------------------------------------------- | :-----: |
-| 00  | **Initial Task** | Matrix operations from scratch (no NumPy) + research papers | ✅ Done |
+|  #  | Task                | Description                                                 | Status  |
+| :-: | :------------------ | :---------------------------------------------------------- | :-----: |
+| 00  | **Initial Task**    | Matrix operations from scratch (no NumPy) + research papers  | ✅ Done |
+| 01  | **NumPy Assignment**| Core NumPy operations + linear regression (normal equation) + research | ✅ Done |
 
 > _This table is updated as I progress through the track._
 
