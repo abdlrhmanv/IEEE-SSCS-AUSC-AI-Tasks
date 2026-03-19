@@ -48,6 +48,13 @@ IEEE-SSCS-AUSC-AI-Tasks/
 │   ├── Slides/                     # Lecture slides
 │   ├── Written Report/             # PDF report
 │   └── README.md
+├── Task3/                          # Data Visualization — Matplotlib & Seaborn
+│   ├── Python Code/
+│   │   └── task.ipynb              # Main Jupyter Notebook (Steps 1–6 + insights)
+│   ├── Written Report/             # PDF report
+│   ├── Visualization_Task_IEEE_SSCS.pdf
+│   ├── Visualization_Study_Plan_IEEE_SSCS.pdf
+│   └── README.md
 ├── README.md                       # ← You are here
 └── ...                             # Future tasks will be added here
 ```
@@ -61,6 +68,7 @@ IEEE-SSCS-AUSC-AI-Tasks/
 | 00  | **Initial Task**    | Matrix operations from scratch (no NumPy) + research papers  | ✅ Done |
 | 01  | **NumPy Assignment**| Core NumPy operations + linear regression (normal equation) + research | ✅ Done |
 | 02  | **Pandas EDA**      | Titanic dataset: cleaning, EDA, analysis & insights, visualizations    | ✅ Done |
+| 03  | **Visualization**   | Matplotlib & Seaborn: line/scatter, styling, distributions, comparisons, heatmaps, storytelling | ✅ Done |
 
 > _This table is updated as I progress through the track._
 
