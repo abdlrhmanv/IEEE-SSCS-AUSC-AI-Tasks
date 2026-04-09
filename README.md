@@ -55,6 +55,11 @@ IEEE-SSCS-AUSC-AI-Tasks/
 │   ├── Visualization_Task_IEEE_SSCS.pdf
 │   ├── Visualization_Study_Plan_IEEE_SSCS.pdf
 │   └── README.md
+├── Task4/                          # Zara Sales — Comprehensive EDA
+│   ├── zara_eda_task.ipynb         # Main notebook (full Zara EDA workflow)
+│   ├── Zara_sales_EDA.csv          # Dataset used for analysis
+│   ├── Task 1 - level 2.pdf        # Task description / assignment sheet
+│   └── README.md
 ├── README.md                       # ← You are here
 └── ...                             # Future tasks will be added here
 ```
@@ -69,8 +74,15 @@ IEEE-SSCS-AUSC-AI-Tasks/
 | 01  | **NumPy Assignment**| Core NumPy operations + linear regression (normal equation) + research | ✅ Done |
 | 02  | **Pandas EDA**      | Titanic dataset: cleaning, EDA, analysis & insights, visualizations    | ✅ Done |
 | 03  | **Visualization**   | Matplotlib & Seaborn: line/scatter, styling, distributions, comparisons, heatmaps, storytelling | ✅ Done |
+| 04  | **Zara Sales EDA**  | End-to-end exploratory analysis: data quality, univariate/bivariate study, anomalies, and business insights | ✅ Done |
 
 > _This table is updated as I progress through the track._
+
+---
+
+## 🤖 AI Assistance Disclosure
+
+Some notebook **markdown explanations** and **documentation comments** were generated with AI assistance, then reviewed and used in the final submitted work.
 
 ---
 
