@@ -60,6 +60,12 @@ IEEE-SSCS-AUSC-AI-Tasks/
 │   ├── Zara_sales_EDA.csv          # Dataset used for analysis
 │   ├── Task 1 - level 2.pdf        # Task description / assignment sheet
 │   └── README.md
+├── Task5/                          # Regression — California Housing (Level 1)
+│   ├── task.ipynb                  # Main notebook (from-scratch + sklearn comparison)
+│   ├── housing.csv                 # California housing dataset
+│   ├── Level-1_Task-5.pdf          # Task sheet
+│   ├── Material/                   # Supporting slides/screenshots
+│   └── README.md
 ├── README.md                       # ← You are here
 └── ...                             # Future tasks will be added here
 ```
@@ -75,6 +81,7 @@ IEEE-SSCS-AUSC-AI-Tasks/
 | 02  | **Pandas EDA**      | Titanic dataset: cleaning, EDA, analysis & insights, visualizations    | ✅ Done |
 | 03  | **Visualization**   | Matplotlib & Seaborn: line/scatter, styling, distributions, comparisons, heatmaps, storytelling | ✅ Done |
 | 04  | **Zara Sales EDA**  | End-to-end exploratory analysis: data quality, univariate/bivariate study, anomalies, and business insights | ✅ Done |
+| 05  | **Regression (Level 1)** | California Housing: Normal Equation + Gradient Descent (from scratch), sklearn comparison, custom MSE/MAE | ✅ Done |
 
 > _This table is updated as I progress through the track._
 
