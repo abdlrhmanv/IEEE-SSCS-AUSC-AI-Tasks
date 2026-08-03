@@ -66,6 +66,15 @@ IEEE-SSCS-AUSC-AI-Tasks/
 │   ├── Level-1_Task-5.pdf          # Task sheet
 │   ├── Material/                   # Supporting slides/screenshots
 │   └── README.md
+├── Task6/                          # Polynomial Regression — Auto MPG
+│   ├── task.ipynb                  # Main notebook (poly degrees, Ridge/Lasso, metrics)
+│   ├── Written Report/             # PDF report
+│   ├── poly_regression_task.pdf    # Task sheet
+│   └── README.md
+├── Project2/                       # Smart Home (Level 1) — voice login + control
+│   ├── Project 2.pdf               # Assignment sheet
+│   ├── README.md                   # Team roles + ML pipeline docs
+│   └── ml/                         # AI package (STT, speaker ID, commands)
 ├── README.md                       # ← You are here
 └── ...                             # Future tasks will be added here
 ```
@@ -82,6 +91,8 @@ IEEE-SSCS-AUSC-AI-Tasks/
 | 03  | **Visualization**   | Matplotlib & Seaborn: line/scatter, styling, distributions, comparisons, heatmaps, storytelling | ✅ Done |
 | 04  | **Zara Sales EDA**  | End-to-end exploratory analysis: data quality, univariate/bivariate study, anomalies, and business insights | ✅ Done |
 | 05  | **Regression (Level 1)** | California Housing: Normal Equation + Gradient Descent (from scratch), sklearn comparison, custom MSE/MAE | ✅ Done |
+| 06  | **Polynomial Regression** | Auto MPG: poly degrees 2–5, Ridge/Lasso + GridSearchCV, MSE/MAE/RMSE/MAPE/R², residual analysis | ✅ Done |
+| P2  | **Smart Home (Level 1)** | Voice password (Whisper STT) + speaker ID + command recognition → Streamlit / Arduino | 🚧 In progress |
 
 > _This table is updated as I progress through the track._
 
