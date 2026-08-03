@@ -71,6 +71,12 @@ IEEE-SSCS-AUSC-AI-Tasks/
 │   ├── Written Report/             # PDF report
 │   ├── poly_regression_task.pdf    # Task sheet
 │   └── README.md
+├── Task7/                          # Classification — Logistic Regression (Level 1)
+│   ├── classification.py           # LogisticRegression from scratch
+│   ├── main.py                     # 4D XOR (+ AND sanity check)
+│   ├── Task2_Sigmoid/              # Sigmoid implementation + plot
+│   ├── Task1_BCE_Derivation/       # BCE gradient derivation (typed reference)
+│   └── README.md
 ├── Project2/                       # Smart Home (Level 1) — voice login + control
 │   ├── Project 2.pdf               # Assignment sheet
 │   ├── README.md                   # Team roles + ML pipeline docs
@@ -92,6 +98,7 @@ IEEE-SSCS-AUSC-AI-Tasks/
 | 04  | **Zara Sales EDA**  | End-to-end exploratory analysis: data quality, univariate/bivariate study, anomalies, and business insights | ✅ Done |
 | 05  | **Regression (Level 1)** | California Housing: Normal Equation + Gradient Descent (from scratch), sklearn comparison, custom MSE/MAE | ✅ Done |
 | 06  | **Polynomial Regression** | Auto MPG: poly degrees 2–5, Ridge/Lasso + GridSearchCV, MSE/MAE/RMSE/MAPE/R², residual analysis | ✅ Done |
+| 07  | **Classification (Level 1)** | BCE gradient derivation, sigmoid plot, logistic regression from scratch, 4D XOR test | ✅ Done |
 | P2  | **Smart Home (Level 1)** | Voice password (Whisper STT) + speaker ID + command recognition → Streamlit / Arduino | 🚧 In progress |
 
 > _This table is updated as I progress through the track._
